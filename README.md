@@ -1,0 +1,2 @@
+# Applebot
+Discord bot
